@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:nuntium/core/services/shared_perfs_service/shared_prefs_service.dart';
+import 'package:nuntium/core/services/shared_prefs_service/shared_prefs_service.dart';
 
 class LocalesServiceSharedPrefs {
   static Future<void> setLocale(String languageCode) async {

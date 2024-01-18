@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nuntium/core/services/shared_perfs_service/shared_prefs_service.dart';
+import 'package:nuntium/core/services/shared_prefs_service/shared_prefs_service.dart';
 
 class ThemingServiceSharedPrefsHandler {
   static ThemeMode getCurrentThemeMode() {
